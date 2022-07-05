@@ -19,23 +19,30 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is ➳ᴹᴿ᭄AZͥ TͣEͫCHNICAL ࿐
+My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (ｆｒｉｅｎｄｓｈｉｐ  එක්ක හදාගන්ඩ  කැමති   යලුවෙ ටික  ඉන්බොක්ස් ඇවිත් නම / ගම කියන්න* 🔥❤️ ۝❥━──➸➽❥❂❥*~
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+😯⃟💦᭄᭄̊̊̊̊࿔Save for Status views (Inbox) 🌹⃝⃘̉̉̉̉̉̉🧚
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+http://Wa.me//+94775153939/http://Wa.me//+94751846771
+
+⃝────★᭄✮͚💚─⃤̸᭄̂̇✾̋❤⃝⃕꧁⃝⃘⃕⃔༄͓̽⟧█̷️™̶➳̶̶₂̶̶₀̶̶₂̶̶₀̶̶➳̶̶̶᭄➤✺۟۟۟۟۟۟۟۟۟۟۟۝⃟̥̩̩̩̥̩̥͚̮(ｎａｍｅ)::::💍 😍🌸❁ཻ̋͜͡҉̋⃢✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰ۬ save දාගනිල්ලා   🥺`` )
+
+global.owner = ['+94775153939'] //Owner number in aive msg
+global.premium = ['+94775153939'] //Owner Number info
+global.ownernomer = '+94775153939' //Owner Number <<<
+
+global.ownername = 'Az KinG' //Owner Name
+global.botname = ' ☬AZ༒TECNICAL࿐' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.btnurl =    '*https://youtube.com/channel/UCg9X81TAiJjR6jn3ua-zLsw*'
+  //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬AZ༒TECHNICAL࿐' //Bot Pacage Name
+global.author = 'Az KinG' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
